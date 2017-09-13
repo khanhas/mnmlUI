@@ -1,4 +1,6 @@
 # mnml UI for Rainmeter
+[![GitHub release](https://img.shields.io/github/release/khanhas/mnmlUI.svg?colorB=97CA00?label=version)](https://github.com/khanhas/mnmlUI/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/khanhas/mnmlUI/total.svg?colorB=97CA00)](https://github.com/khanhas/mnmlUI/releases)  
+  
 A date and clock collection
 
 All was designed by ppick CH. If you like these skins, consider install [mnml UI](https://play.google.com/store/apps/details?id=com.bedefined.mnmlui) app and give it a like.
