@@ -6,7 +6,7 @@ A date and clock collection
 - Install (installing time is going to take a while, so be patient).
 - Access `@Resources\Inkscape` and open up `Inkscape.exe`.
 - Hit Ctrl+Shift+P or Edit\Preferences in menu.
-- Input\Output page -> SVG output -> Data string format: Absolute. ![instruction](https://i.imgur.com/ZbyltRV.png)
+- Input\Output page -> SVG output -> Path string format: Absolute. ![instruction](https://i.imgur.com/ZbyltRV.png)
 - Close Preferences and Inkscape windows
 - Now just load the skin you want. Check these demo images below and make sure you install font if it is needed.
 
