@@ -5,7 +5,7 @@ All was designed by ppick CH. If you like these skins, consider install [mnml UI
 
 Almost all skins are scalable infinitely. So I need to include VectorConverter by theAzack9 and Inkscape to automatically generate shapes.
 
-# How to uses
+# How to use
 - Download rmskin pack from [release page](https://github.com/khanhas/mnmlUI/releases/).
 - Install (installing time is going to take a while, so be patient).
 - Access `@Resources\Inkscape` and open `Inkscape.exe`.
